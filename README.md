@@ -36,13 +36,13 @@ Ensure you have the following installed:
 1. Clone the Repository
 
     ```bash
-    https://github.com/AsilMehaboob/SpaceGame.git
+    https://github.com/ABHAY-100/excel-play-space-game.git
     ```
     
 2. Navigate to the Project Directory
    
     ```bash
-    cd SpaceGame
+    cd excel-play-space-game
     ```
     
 3. Install Dependencies
