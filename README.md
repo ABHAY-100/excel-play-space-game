@@ -2,7 +2,7 @@
 
 ## Overview
 
-NovaDash is a space-themed vertical shooter game built using [p5.js](https://p5js.org/). It was created for **Excel 2024**, the 25th edition of the awesome techno-managerial fest hosted by Govt. Model Engineering College, Kochi. With over 300 players giving it a shot, NovaDash turned out to be a crowd favorite at the event! 🚀
+NovaDash is a space-themed vertical shooter game built using [p5.js](https://p5js.org/). It was created for **Excel 2024**, the 25th edition of the awesome techno-managerial fest hosted by Govt. Model Engineering College, Kochi. With over 600 players giving it a shot, NovaDash turned out to be a crowd favorite at the event! 🚀
 
 <br />
 
